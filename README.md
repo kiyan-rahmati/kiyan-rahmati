@@ -1,13 +1,15 @@
-# 👋 Hi, I'm kiyan rahmati 
-### 🚀 Full-Stack Web Developer & AI Enthusiast
+# 👋 Hi, I'm Kiyan Rahmati
+### 🚀 Full-Stack Web Developer & AI Enthusiast | B.Sc. Student
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a passionate **Full-Stack Web Developer** with a growing interest in **Artificial Intelligence**. Currently, I am part of a dedicated development team where our core mission is to engineer high-performance, scalable, and cutting-edge digital solutions. We don't just build websites; we strive to deliver the most robust and innovative services available in the industry.
+I am a passionate **Full-Stack Web Developer** and **AI Enthusiast**, currently studying **Computer Engineering at the University of Gilan (Pardis Campus)**. My primary focus is crafting scalable, high-performance applications that solve real-world problems.
 
-My journey into software development began three years ago. During this time, I have moved from fundamental concepts to complex project architectures. I am a firm believer in "Learning by Doing," which is why my GitHub repository is a living archive of my progress—from intensive training exercises to complex, real-world implementations. Every commit represents a step forward in my pursuit of technical excellence.
+As an active member of a **dedicated development team**, my mission is to deliver the most robust and innovative services in the industry — combining clean architecture with cutting-edge technology. I strongly believe in *"Learning by Doing"*, which is why my GitHub serves as a **living archive of my engineering journey**.
+
+Over the past **3 years**, I have completed intensive training, built numerous practice projects, and continuously sharpened my skills. I am now focusing on turning my experience into production-ready, real-world applications.
 
 ---
 
@@ -26,32 +28,39 @@ My journey into software development began three years ago. During this time, I 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![AJAX](https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=jquery&logoColor=white)
 
-### 🤖 AI & Data Science
-*Currently exploring Machine Learning frameworks and AI integration in web environments.*
+### 🐍 Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+> Intermediate level · completed dedicated Python courses
 
 ---
 
 ## 🎓 Education & Certifications
 
-### **Education**
-- **B.Sc. in Computer Engineering**  
-  *University of Gilan, Pardis Campus* 🏛️
+### 🏛️ Education
+- **B.Sc. in Computer Engineering** — University of Gilan, Pardis Campus *(2025 – Present)*
 
-### **Professional Certifications**
-I have successfully completed rigorous professional certification programs in:
-- ✅ **Advanced HTML5 & CSS3 Mastery**
-- ✅ **Modern JavaScript (ES6+) Expert**
-- ✅ **PHP Backend Development & Architecture**
-- ✅ **Asynchronous Programming with AJAX**
+### 📜 Professional Certifications
+I have successfully completed professional certification programs in:
+- ✅ Advanced HTML5 & CSS3
+- ✅ Modern JavaScript (ES6+)
+- ✅ PHP Backend Development
+- ✅ AJAX (Asynchronous Programming)
+- ✅ Python Programming (Intermediate)
 
 ---
 
 ## 📊 GitHub Stats
-![kiyan-rahmati](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiyan-rahmati&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiyan-rahmati&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Get In Touch
-- 💼 **LinkedIn:** [https://ir.linkedin.com/in/kiyan-rahmati]
-- 📧 **Email:** [kiyan.rahmati.ss@gmail.com]
+
+- 📧 **Email:** kiyan.rahmati.ss@gmail.com
+- 💼 **LinkedIn:** [Kiyan Rahmati](https://ir.linkedin.com/in/kiyan-rahmati)
+
+---
+
+*⚡ Always learning · Always building — because code is best learned by writing it.*
