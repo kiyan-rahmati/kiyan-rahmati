@@ -51,10 +51,6 @@ I am a passionate **Full-Stack Web Developer** and **AI Enthusiast**, currently 
 
 ## 📊 My GitHub Analytics
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiyan-rahmati&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyan-rahmati&layout=compact&theme=radical" />
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiyan-rahmati&theme=radical" alt="github streak stats" />
