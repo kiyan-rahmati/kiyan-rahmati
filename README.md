@@ -35,11 +35,6 @@ I am a passionate **Full-Stack Web Developer** and **AI Enthusiast**, currently 
 > Intermediate level · Focused on Automation & Data Structures
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
-</p>
-
----
 
 ## 🎓 Education & Certifications
 
@@ -62,5 +57,8 @@ I am a passionate **Full-Stack Web Developer** and **AI Enthusiast**, currently 
 </p>
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>
 
-
+---
