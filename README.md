@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Kiyan Rahmati
-### 🚀 Full-Stack Web Developer & AI Enthusiast | B.Sc. Student
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Computer+Engineering+Student;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Quick Overview
 
-I am a passionate **Full-Stack Web Developer** and **AI Enthusiast**, currently studying **Computer Engineering at the University of Gilan (Pardis Campus)**. My primary focus is crafting scalable, high-performance applications that solve real-world problems.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kiyan-rahmati&theme=radical&column=7&margin-w=15&margin-h=15" alt="github trophies" />
+</p>
 
-As an active member of a **dedicated development team**, my mission is to deliver the most robust and innovative services in the industry — combining clean architecture with cutting-edge technology. I strongly believe in *"Learning by Doing"*, which is why my GitHub serves as a **living archive of my engineering journey**.
-
-Over the past **3 years**, I have completed intensive training, built numerous practice projects, and continuously sharpened my skills. I am now focusing on turning my experience into production-ready, real-world applications.
+I am a passionate **Full-Stack Web Developer** and **AI Enthusiast**, currently studying **Computer Engineering at the University of Gilan (Pardis Campus)**. My GitHub is a **living archive** of my 3-year journey in software engineering.
 
 ---
 
@@ -23,14 +23,16 @@ Over the past **3 years**, I have completed intensive training, built numerous p
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-### ⚙️ Backend Development
+### ⚙️ Backend & Database
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![AJAX](https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=jquery&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🐍 Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-> Intermediate level · completed dedicated Python courses
+> Intermediate level · Focused on Automation & Data Structures
 
 ---
 
@@ -40,27 +42,35 @@ Over the past **3 years**, I have completed intensive training, built numerous p
 - **B.Sc. in Computer Engineering** — University of Gilan, Pardis Campus *(2025 – Present)*
 
 ### 📜 Professional Certifications
-I have successfully completed professional certification programs in:
-- ✅ Advanced HTML5 & CSS3
-- ✅ Modern JavaScript (ES6+)
-- ✅ PHP Backend Development
-- ✅ AJAX (Asynchronous Programming)
-- ✅ Python Programming (Intermediate)
+- ✅ **Web Core:** Advanced HTML5, CSS3, Modern JS (ES6+)
+- ✅ **Backend:** PHP Development & AJAX Integration
+- ✅ **Database:** Relational Database Management (SQL)
+- ✅ **Python:** Intermediate Programming Certification
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiyan-rahmati&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiyan-rahmati&layout=compact&theme=radical)
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiyan-rahmati&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyan-rahmati&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kiyan-rahmati&theme=radical" alt="github streak stats" />
+</p>
 
 ---
 
-## 📫 Get In Touch
+## 📫 Connect with Me
 
-- 📧 **Email:** kiyan.rahmati.ss@gmail.com
-- 💼 **LinkedIn:** [Kiyan Rahmati](https://ir.linkedin.com/in/kiyan-rahmati)
+<p align="left">
+<a href="mailto:kiyan.rahmati.ss@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://ir.linkedin.com/in/kiyan-rahmati"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
 
-*⚡ Always learning · Always building — because code is best learned by writing it.*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>
