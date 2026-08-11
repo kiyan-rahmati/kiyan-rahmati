@@ -19,7 +19,7 @@ alt="Typing SVG"
   <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a><a href="https://ir.linkedin.com/in/kiyan-rahmati">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a></div>---
+</a></div>
 
 🧑‍💻 About Me
 
