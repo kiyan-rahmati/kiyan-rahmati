@@ -1,11 +1,36 @@
+<div align="center">
+
 # 👋 Hi, I'm Kiyan Rahmati
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Computer+Engineering+Student;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+
+### Full-Stack Web Developer | Computer Engineering Student | AI Enthusiast
+
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Turning+Ideas+Into+Digital+Solutions;Learning+Today%2C+Building+Tomorrow;Exploring+Web+Development+%26+AI" 
+  alt="Typing SVG"
+/>
+
+<p>
+  <a href="https://github.com/kiyan-rahmati">
+    <img src="https://komarev.com/ghpvc/?username=kiyan-rahmati&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://github.com/kiyan-rahmati?tab=followers">
+    <img src="https://img.shields.io/github/followers/kiyan-rahmati?label=Followers&style=flat&color=blue" alt="GitHub followers" />
+  </a>
+</p>
+
+</div>
 
 ---
 
+
 ## 🚀 Quick Overview
 
-I am a passionate **Full-Stack Web Developer** and **AI Enthusiast**, currently studying **Computer Engineering at the University of Gilan (Pardis Campus)**. My GitHub is a **living archive** of my 3-year journey in software engineering.
+I am a passionate **Full-Stack Web Developer** and **Computer Engineering student** at the **University of Gilan — Pardis Campus**.
+
+My programming journey started with curiosity and gradually turned into a serious commitment to software development. During the past **three years**, I have focused on building practical web applications, improving my problem-solving skills, and understanding how modern software systems work behind the scenes.
+
+I enjoy transforming ideas into functional, responsive, and user-friendly digital products. My main interests include backend development, database design, interactive frontend interfaces, software architecture, automation, and artificial intelligence.
+
 
 ---
 
