@@ -5,10 +5,6 @@
 
 ## 🚀 Quick Overview
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kiyan-rahmati&theme=radical&column=7&margin-w=15&margin-h=15" alt="github trophies" />
-</p>
-
 I am a passionate **Full-Stack Web Developer** and **AI Enthusiast**, currently studying **Computer Engineering at the University of Gilan (Pardis Campus)**. My GitHub is a **living archive** of my 3-year journey in software engineering.
 
 ---
