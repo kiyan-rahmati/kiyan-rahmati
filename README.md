@@ -285,7 +285,7 @@ Area| What interests me
 🎓 Education| Learning & academic platforms
 📱 Responsive UI| Mobile-friendly interfaces
 
----
+
 
 🚀 Featured Projects
 
@@ -388,7 +388,7 @@ mindset:
   - Improve
   - Repeat
 
----
+
 
 🔥 My Developer Mindset
 
@@ -396,7 +396,7 @@ mindset:
 
 <br>"Great software is built one problem at a time."
 
-</div>---
+</div>
 
 📫 Let's Connect
 
@@ -422,22 +422,4 @@ Every star, contribution, and piece of feedback motivates me to keep building an
 
 Keep Coding · Keep Learning · Keep Building
 
-<br><img 
-src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"
-alt="Footer"
-/>
-
-<br><picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/kiyan-rahmati/kiyan-rahmati/output/github-snake-dark.svg"
-  >
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/kiyan-rahmati/kiyan-rahmati/output/github-snake.svg"
-  >
-  <img 
-    alt="GitHub Contribution Snake" 
-    src="https://raw.githubusercontent.com/kiyan-rahmati/kiyan-rahmati/output/github-snake.svg"
-  >
 </picture></div>
