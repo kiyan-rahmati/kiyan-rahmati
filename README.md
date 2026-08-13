@@ -1,425 +1,533 @@
-<div align="center">👋 Hi, I'm Kiyan Rahmati
+<div align="center">
 
-Full-Stack Web Developer · Computer Engineering Student · AI Enthusiast
+# 👋 Hey, I'm Kiyan Rahmati
 
-<img 
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Digital+Products;Backend+%7C+Frontend+%7C+Databases;Exploring+AI+%26+Automation;Learning+Today%2C+Building+Tomorrow"
-alt="Typing SVG"
-/>
+### 💻 Full-Stack Web Developer · 🎓 Computer Engineering Student · 🤖 AI Explorer
 
-<br><a href="https://github.com/kiyan-rahmati">
-  <img src="https://komarev.com/ghpvc/?username=kiyan-rahmati&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views" />
-</a><a href="https://github.com/kiyan-rahmati?tab=followers">
-  <img src="https://img.shields.io/github/followers/kiyan-rahmati?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-</a><a href="https://github.com/kiyan-rahmati?tab=repositories">
-  <img src="https://img.shields.io/github/stars/kiyan-rahmati?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
-</a><br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;PHP+%7C+Laravel+%7C+JavaScript;Python+%7C+Automation+%7C+AI;Turning+Ideas+Into+Digital+Products;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Improve" alt="Typing SVG" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=kiyan-rahmati&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/kiyan-rahmati?label=FOLLOWERS&style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/stars/kiyan-rahmati?label=STARS&style=for-the-badge&color=yellow" />
+
+<br><br>
 
 <a href="mailto:kiyan.rahmati.ss@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a><a href="https://ir.linkedin.com/in/kiyan-rahmati">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a></div>
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-🧑‍💻 About Me
+<a href="https://ir.linkedin.com/in/kiyan-rahmati">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-Hello! I'm Kiyan Rahmati, a Full-Stack Web Developer and Computer Engineering student passionate about building practical software and exploring modern technologies.
+<a href="https://github.com/kiyan-rahmati">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-My journey in programming started with curiosity and gradually became a serious commitment to software development. Over the past three years, I've been learning, experimenting, building projects, and continuously improving my understanding of how modern software systems work.
-
-I'm especially interested in creating applications that are:
-
-- ⚡ Fast and efficient
-- 📱 Responsive and accessible
-- 🔐 Secure and maintainable
-- 🧩 Well-structured and scalable
-- 🎨 Simple and user-friendly
-- 🤖 Ready to integrate automation and AI
-
-I enjoy working across the entire development process — from designing a database and building backend APIs to creating interactive frontend interfaces.
-
-«My goal is simple: keep learning, keep building, and turn ideas into useful digital products.»
+</div>
 
 ---
 
-🚀 What I Do
+## 🧑‍💻 About Me
 
-🌐 Full-Stack Development
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  👋 Hi, I'm Kiyan.                                           │
+│                                                              │
+│  💻 Full-Stack Web Developer                                 │
+│  🎓 Computer Engineering Student                             │
+│  🤖 AI & Automation Enthusiast                               │
+│                                                              │
+│  I enjoy turning ideas into practical software.              │
+│  I build, experiment, break things, debug them,              │
+│  and keep improving until the solution works.                │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
-I enjoy developing complete web applications from frontend to backend, focusing on clean architecture, usability, and maintainability.
+I've been programming for **3+ years**, continuously learning and building projects across web development, backend engineering, databases, automation and AI.
 
-⚙️ Backend Development
+> **My goal is simple: Learn → Build → Break → Debug → Improve → Repeat 🔁**
 
-I work with PHP, Laravel, SQL, MySQL, and AJAX to build server-side applications, APIs, database-driven systems, and dynamic web experiences.
+I care about software that is:
 
-🎨 Frontend Development
-
-I build responsive interfaces using HTML5, CSS3, JavaScript, Bootstrap, React, and Vue.js.
-
-🗄️ Database Design
-
-I'm interested in relational database architecture, data modeling, SQL queries, relationships, normalization, and efficient database-driven applications.
-
-🤖 AI & Automation
-
-I'm currently exploring how Python, automation, data structures, and artificial intelligence can be integrated into real-world applications.
-
-🧠 Problem Solving
-
-I enjoy breaking complex problems into smaller pieces and finding practical, maintainable solutions.
+* ⚡ Fast & efficient
+* 🔐 Secure & maintainable
+* 🧩 Clean & scalable
+* 📱 Responsive
+* 🎨 Simple & user-friendly
+* 🤖 Ready for automation & AI
 
 ---
 
-🛠️ Tech Stack
+# ⚡ What I Do
 
-🌐 Frontend Development
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Full-Stack Development
+
+Building complete web applications from frontend interfaces to backend services and databases.
+
+**Focus:**
+`Frontend` · `Backend` · `APIs` · `Authentication` · `CRUD`
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Backend Engineering
+
+Creating server-side applications and database-driven systems.
+
+**Focus:**
+`PHP` · `Laravel` · `MySQL` · `SQL` · `AJAX` · `REST APIs`
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🎨 Frontend Development
+
+Building responsive and interactive interfaces using modern web technologies.
+
+**Focus:**
+`HTML5` · `CSS3` · `JavaScript` · `Bootstrap` · `React` · `Vue`
+
+</td>
+
+<td>
+
+### 🤖 AI & Automation
+
+Exploring how Python, automation and AI can become part of real-world applications.
+
+**Focus:**
+`Python` · `Automation` · `APIs` · `Data Processing` · `AI`
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+## 🌐 Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-</p>Focus:
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+</p>
 
-"Responsive UI" · "Component-Based Development" · "DOM Manipulation" · "Modern JavaScript" · "Interactive Interfaces"
+**Focus:**
+`Responsive UI` · `Component-Based Development` · `DOM Manipulation` · `Modern JavaScript` · `Interactive Interfaces`
 
 ---
 
-⚙️ Backend Development
+## ⚙️ Backend
 
 <p>
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=jquery&logoColor=white" />
-</p>Focus:
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=jquery&logoColor=white" />
+</p>
 
-"Server-Side Development" · "REST APIs" · "Authentication" · "CRUD Systems" · "MVC Architecture" · "AJAX Requests"
+**Focus:**
+`MVC` · `REST APIs` · `Authentication` · `CRUD` · `Server-Side Development`
 
 ---
 
-🗄️ Database
+## 🗄️ Database
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>Focus:
+<img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-"Relational Databases" · "Database Design" · "SQL Queries" · "Relationships" · "Normalization" · "Data Management"
+**Focus:**
+`Database Design` · `Relationships` · `Normalization` · `SQL Queries` · `Data Management`
 
 ---
 
-🐍 Programming Languages
+## 🐍 Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>Python
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
-Level: Intermediate
+**Python Level:** `Intermediate`
 
-Interests:
-
-"Automation" · "Data Structures" · "Scripting" · "Problem Solving" · "AI"
+**Interests:**
+`Automation` · `Data Structures` · `Scripting` · `Problem Solving` · `AI`
 
 ---
 
-🔧 Tools & Development Environment
+# 🔧 Tools & Development Environment
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>I'm continuously improving my workflow around:
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
-- 🔀 Git & version control
-- 🌿 Branch-based development
-- 🧹 Clean and maintainable code
-- 🐛 Debugging and troubleshooting
-- 📚 Documentation
-- 🔍 Code review
-- 🔐 Secure development practices
-
----
-
-📚 Currently Learning
-
-I'm constantly expanding my skill set and exploring technologies beyond my current stack.
-
-🔥 Current Focus
-
-- ⚛️ Advanced React
-- 🟢 Vue.js Ecosystem
-- 🏗️ Advanced Laravel
-- 🔌 RESTful API Development
-- 🗄️ Advanced Database Design
-- 🐍 Python Automation
-- 🧠 Data Structures & Algorithms
-- 🤖 Artificial Intelligence
-- 🧪 Testing & Software Quality
-- 🔐 Web Security
-- ☁️ Deployment & Cloud Technologies
+```text
+Git & Version Control
+        ↓
+Branch-Based Development
+        ↓
+Clean Code
+        ↓
+Debugging
+        ↓
+Testing
+        ↓
+Documentation
+        ↓
+Continuous Improvement
+```
 
 ---
 
-🤖 AI & Automation
+# 🚀 Currently Learning
 
-Artificial intelligence is one of the areas I'm increasingly interested in.
+```text
+                    🧠 LEARNING MODE
+                         │
+        ┌────────────────┼────────────────┐
+        ↓                ↓                ↓
+     React            Laravel           Python
+        │                │                │
+        ↓                ↓                ↓
+    Frontend          Backend         Automation
+        │                │                │
+        └────────────────┼────────────────┘
+                         ↓
+                    🤖 AI / APIs
+                         ↓
+                  🚀 Real Products
+```
 
-My goal is not simply to learn AI as a separate field, but to understand how it can be integrated into real software products.
+### 🔥 Current Focus
 
-I'm particularly interested in:
-
-Web Applications
-      ↓
-Automation
-      ↓
-Data Processing
-      ↓
-AI Integration
-      ↓
-Intelligent Digital Products
-
-Some areas I'm exploring:
-
-- 🐍 Python-based automation
-- 🧠 AI-assisted applications
-- 📊 Data processing
-- 🔗 API integrations
-- ⚙️ Workflow automation
-- 🤖 Intelligent web applications
-
----
-
-🎓 Education
-
-🏛️ University of Gilan — Pardis Campus
-
-B.Sc. in Computer Engineering
-
-"2025 – Present"
-
-Areas of Interest
-
-- 💻 Software Engineering
-- 🧮 Data Structures & Algorithms
-- 🗄️ Database Systems
-- 🌐 Web Technologies
-- 🤖 Artificial Intelligence
-- 🖥️ Computer Architecture
-- 🔢 Mathematics & Computational Thinking
+* ⚛️ Advanced React
+* 🟢 Vue.js Ecosystem
+* 🏗️ Advanced Laravel
+* 🔌 RESTful API Development
+* 🗄️ Advanced Database Design
+* 🐍 Python Automation
+* 🧠 Data Structures & Algorithms
+* 🤖 Artificial Intelligence
+* 🧪 Testing & Software Quality
+* 🔐 Web Security
+* ☁️ Deployment & Cloud Technologies
 
 ---
 
-📜 Certifications & Professional Learning
+# 🤖 AI × Automation
 
-🌐 Web Development
+> **AI shouldn't just be something I learn — it should become something I build with.**
 
-✅ Advanced HTML5
-✅ CSS3
-✅ Modern JavaScript / ES6+
+I'm interested in connecting web development, automation and AI to create useful digital products.
 
-⚙️ Backend Development
-
-✅ PHP Development
-✅ AJAX Integration
-✅ Server-Side Programming
-
-🗄️ Database
-
-✅ Relational Database Management
-✅ SQL
-✅ MySQL
-
-🐍 Python
-
-✅ Intermediate Python Programming
-✅ Data Structures
-✅ Automation Fundamentals
+```text
+┌───────────────┐
+│   Web Apps 🌐 │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│ Automation ⚙️ │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│    Data 📊    │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│    APIs 🔗    │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│     AI 🤖     │
+└───────┬───────┘
+        ↓
+┌──────────────────────┐
+│ Intelligent Products │
+└──────────────────────┘
+```
 
 ---
 
-💼 Development Philosophy
+# 🎓 Education
+
+### 🏛️ University of Gilan — Pardis Campus
+
+**B.Sc. in Computer Engineering**
+`2025 – Present`
+
+### Areas of Interest
+
+`Software Engineering` · `Data Structures & Algorithms` · `Database Systems`
+
+`Web Technologies` · `Artificial Intelligence` · `Computer Architecture`
+
+`Mathematics` · `Computational Thinking`
+
+---
+
+# 📜 Certifications & Professional Learning
+
+### 🌐 Web Development
+
+* ✅ Advanced HTML5
+* ✅ CSS3
+* ✅ Modern JavaScript / ES6+
+
+### ⚙️ Backend Development
+
+* ✅ PHP Development
+* ✅ AJAX Integration
+* ✅ Server-Side Programming
+
+### 🗄️ Database
+
+* ✅ Relational Database Management
+* ✅ SQL
+* ✅ MySQL
+
+### 🐍 Python
+
+* ✅ Intermediate Python Programming
+* ✅ Data Structures
+* ✅ Automation Fundamentals
+
+---
+
+# 🧩 What I Like Building
+
+| 🚀 Area           | 💡 What I'm Interested In           |
+| ----------------- | ----------------------------------- |
+| 🌐 Web Apps       | Modern full-stack applications      |
+| 🛒 E-Commerce     | Scalable online stores & dashboards |
+| 📊 Dashboards     | Data-driven admin panels            |
+| 🔐 Authentication | Secure user systems                 |
+| 🔌 APIs           | RESTful backend services            |
+| 🤖 AI Apps        | AI-powered web applications         |
+| ⚙️ Automation     | Productivity & workflow tools       |
+| 🗄️ Databases     | Efficient data-driven systems       |
+| 🎓 Education      | Learning & academic platforms       |
+| 📱 Responsive UI  | Mobile-friendly interfaces          |
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+### 🛒 E-Commerce Platform
+
+A full-stack web application focused on product management, authentication, database relationships and responsive user experience.
+
+`PHP` · `MySQL` · `JavaScript` · `AJAX` · `Bootstrap`
+
+---
+
+### 📊 Management Dashboard
+
+A dynamic dashboard for managing users, products, data and application workflows.
+
+`Laravel` · `MySQL` · `JavaScript` · `Bootstrap`
+
+---
+
+### 🤖 Python Automation Toolkit
+
+A collection of Python scripts designed to automate repetitive tasks and improve development workflows.
+
+`Python` · `Automation` · `Data Structures`
+
+---
+
+### 🌐 Modern Frontend Application
+
+A responsive frontend project focused on reusable components, interactive interfaces and modern JavaScript development.
+
+`React` · `JavaScript` · `CSS3`
+
+</div>
+
+> 🚧 **More real-world projects are coming soon...**
+
+---
+
+# 🧠 Development Philosophy
 
 I believe good software isn't only about making something work.
 
 It's about making it:
 
-«Readable · Maintainable · Scalable · Secure · Useful»
+```text
+Readable
+   ↓
+Maintainable
+   ↓
+Scalable
+   ↓
+Secure
+   ↓
+Useful
+```
 
-My development principles
+### My Development Workflow
 
-Understand the Problem
-        ↓
-Plan the Solution
-        ↓
-Design the Architecture
-        ↓
-Write Clean Code
-        ↓
-Test & Debug
-        ↓
-Improve & Refactor
-        ↓
-Ship 🚀
-
----
-
-🧩 What I'm Interested In Building
-
-I'm particularly interested in projects such as:
-
-Area| What interests me
-🌐 Web Apps| Modern full-stack applications
-🛒 E-Commerce| Scalable online stores & dashboards
-📊 Dashboards| Data-driven admin panels
-🔐 Authentication| Secure user systems
-🔌 APIs| RESTful backend services
-🤖 AI Apps| AI-powered web applications
-⚙️ Automation| Productivity & workflow tools
-🗄️ Databases| Efficient data-driven systems
-🎓 Education| Learning & academic platforms
-📱 Responsive UI| Mobile-friendly interfaces
-
-
-
-🚀 Featured Projects
-
-«This section is ready for your best repositories.»
-
-🛒 E-Commerce Platform
-
-A full-stack web application focused on product management, authentication, database relationships, and responsive user experience.
-
-Tech: "PHP" · "MySQL" · "JavaScript" · "AJAX" · "Bootstrap"
+```text
+01  Understand the Problem
+          ↓
+02  Plan the Solution
+          ↓
+03  Design the Architecture
+          ↓
+04  Write Clean Code
+          ↓
+05  Test & Debug
+          ↓
+06  Improve & Refactor
+          ↓
+07  Ship 🚀
+```
 
 ---
 
-📊 Management Dashboard
+# 🧪 Developer Mode
 
-A dynamic dashboard for managing users, products, data, and application workflows.
+```python
+class Kiyan:
 
-Tech: "Laravel" · "MySQL" · "JavaScript" · "Bootstrap"
+    name = "Kiyan Rahmati"
+    role = "Full-Stack Developer"
+    education = "Computer Engineering"
+    experience = "3+ years"
 
----
+    interests = [
+        "Web Development",
+        "Backend Engineering",
+        "Databases",
+        "Automation",
+        "Artificial Intelligence",
+        "Software Architecture"
+    ]
 
-🤖 Python Automation Toolkit
+    currently_learning = [
+        "Advanced Laravel",
+        "React",
+        "Python",
+        "AI",
+        "System Design"
+    ]
 
-A collection of Python scripts designed to automate repetitive tasks and improve development workflows.
-
-Tech: "Python" · "Automation" · "Data Structures"
-
----
-
-🌐 Modern Frontend Application
-
-A responsive frontend project focused on reusable components, interactive interfaces, and modern JavaScript development.
-
-Tech: "React" · "JavaScript" · "CSS3"
-
----
-
-«💡 Replace the example projects above with your real repositories and add their links. GitHub recommends showcasing your strongest projects and pinning roughly 3–5 particularly relevant ones for recruiters and visitors.»
-
----
-
-📊 GitHub Analytics
-
-<div align="center"><img 
-src="https://github-readme-streak-stats.herokuapp.com/?user=kiyan-rahmati&theme=radical"
-alt="GitHub Streak"
-/>
-
-<br><br>
-
-</div>
+    mindset = [
+        "Learn",
+        "Build",
+        "Break",
+        "Debug",
+        "Improve",
+        "Repeat"
+    ]
+```
 
 ---
 
-🌱 Beyond Coding
+# 🌱 Beyond Coding
 
 Technology is more than writing code.
 
 I'm also working on improving:
 
-- 🧠 Problem-solving
-- 📖 Technical English
-- 🤝 Communication
-- ⏱️ Time management
-- 🧩 Logical thinking
-- 📚 Continuous learning
-- 🌍 Collaboration
-- 🚀 Product thinking
+* 🧠 Problem Solving
+* 📖 Technical English
+* 🤝 Communication
+* ⏱️ Time Management
+* 🧩 Logical Thinking
+* 📚 Continuous Learning
+* 🌍 Collaboration
+* 🚀 Product Thinking
 
 ---
 
-💡 A Few Things About Me
+# 🔥 My Developer Mindset
 
-name: Kiyan Rahmatirole:
-  - Full-Stack Web Developer
-  - Computer Engineering Student
-  - AI Enthusiast
+<div align="center">
 
-experience:
-  programming: "3+ years"
+```text
+       LEARN
+         ↓
+       BUILD
+         ↓
+       BREAK
+         ↓
+       DEBUG
+         ↓
+      IMPROVE
+         ↓
+      REPEAT 🔁
+```
 
-interests:
-  - Web Development
-  - Backend Engineering
-  - Databases
-  - Automation
-  - Artificial Intelligence
-  - Software Architecture
-
-currently_learning:
-  - Advanced Laravel
-  - React
-  - Python
-  - AI
-  - System Design
-
-mindset:
-  - Learn
-  - Build
-  - Improve
-  - Repeat
-
-
-
-🔥 My Developer Mindset
-
-<div align="center">Learn → Build → Break → Debug → Improve → Repeat 🔁
-
-<br>"Great software is built one problem at a time."
+### 💬 "Great software is built one problem at a time."
 
 </div>
 
-📫 Let's Connect
+---
 
-I'm always interested in connecting with developers, students, engineers, and people working on interesting technology projects.
+# 📫 Let's Connect
 
-<p align="left"><a href="mailto:kiyan.rahmati.ss@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a><a href="https://ir.linkedin.com/in/kiyan-rahmati">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a><a href="https://github.com/kiyan-rahmati">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a></p>---
+<div align="center">
 
-⭐ Support My Work
+I'm always interested in connecting with developers, students, engineers and people working on interesting technology projects.
 
-If you find my projects useful or interesting, consider giving them a ⭐ on GitHub.
+<br>
 
-Every star, contribution, and piece of feedback motivates me to keep building and learning.
+<a href="mailto:kiyan.rahmati.ss@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://ir.linkedin.com/in/kiyan-rahmati">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/kiyan-rahmati">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+⭐ **If you find my projects useful, consider giving them a star!**
+
+</div>
 
 ---
 
-<div align="center">🚀 Thanks for visiting my profile!
+<div align="center">
 
-Keep Coding · Keep Learning · Keep Building
+# 🚀 Thanks for Visiting My Profile!
 
-</picture></div>
+### Keep Coding · Keep Learning · Keep Building
+
+<br>
+
+`< / >` with ☕ + 💻 + 🤖
+
+</div>
