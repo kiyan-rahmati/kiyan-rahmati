@@ -11,21 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=kiyan-rahmati&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/kiyan-rahmati?label=FOLLOWERS&style=for-the-badge&color=blue" />
 <img src="https://img.shields.io/github/stars/kiyan-rahmati?label=STARS&style=for-the-badge&color=yellow" />
-
-<br><br>
-
-<a href="mailto:kiyan.rahmati.ss@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://ir.linkedin.com/in/kiyan-rahmati">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/kiyan-rahmati">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+<br>
 </div>
 
 ---
@@ -500,19 +486,20 @@ I'm always interested in connecting with developers, students, engineers and peo
 
 <br>
 
+
 <a href="mailto:kiyan.rahmati.ss@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://ir.linkedin.com/in/kiyan-rahmati">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/kiyan-rahmati">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br><br>
+<br>
 
 ⭐ **If you find my projects useful, consider giving them a star!**
 
