@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Kiyan Rahmati
 
-### Full-Stack Developer · Computer Engineering Student · AI & Automation Enthusiast
+### 🌐 Web Developer · Frontend & Backend Developer · Computer Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Web+Applications;PHP+%7C+Laravel+%7C+JavaScript;Python+%7C+Automation+%7C+AI;Turning+Ideas+Into+Real+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+%26+Backend+Web+Developer;Building+Modern+Web+Applications;PHP+%7C+Laravel+%7C+JavaScript;HTML+%7C+CSS+%7C+Vue+%7C+React;Turning+Ideas+Into+Web+Applications" />
 
 <br>
 
@@ -24,40 +24,50 @@
 
 ```text
 Kiyan Rahmati
-├── 💻 Full-Stack Developer
-├── 🎓 Computer Engineering Student
-├── ⚙️ Backend & Web Development
-├── 🐍 Python & Automation
-└── 🤖 Exploring AI
+├── 🌐 Web Developer
+├── 🎨 Frontend Development
+├── ⚙️ Backend Development
+├── 🔌 REST API Development
+└── 🗄️ Database & Web Technologies
 ```
 
-I enjoy building practical software, learning new technologies, and turning ideas into working products.
+I'm a **Web Developer** focused on building modern, responsive, and functional web applications.
 
-Currently focused on **modern web development, backend systems, APIs, automation, and AI-powered applications.**
+My main focus is **Frontend & Backend Development**, from designing responsive interfaces to developing server-side logic, APIs, authentication systems, and database-driven applications.
 
-> Build something useful. Learn from it. Make it better. 🚀
+I enjoy turning ideas into real-world web projects and continuously improving my development skills through practical projects.
+
+> Build. Learn. Improve. Repeat. 🚀
 
 ---
 
-## ⚡ What I Work With
+## ⚡ Tech Stack
 
 <div align="center">
 
-### 🌐 Frontend
+### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vue" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,vue,react" />
+
+<br><br>
 
 ### ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=php,laravel" />
 
+<br><br>
+
 ### 🗄️ Database
 
 <img src="https://skillicons.dev/icons?i=mysql" />
 
-### 🐍 Programming & AI
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=python" />
+### 🔌 Web Technologies
+
+<img src="https://skillicons.dev/icons?i=jquery" />
+
+<br><br>
 
 ### 🛠️ Tools
 
@@ -67,57 +77,72 @@ Currently focused on **modern web development, backend systems, APIs, automation
 
 ---
 
-## 🚀 Currently Building & Learning
+## 🚀 What I Do
 
 <table>
 <tr>
+
 <td width="50%">
 
-### ⚛️ Frontend
+### 🎨 Frontend Development
 
-* React
+* Responsive Web Design
+* Modern UI Development
+* HTML5 & CSS3
+* JavaScript
+* Bootstrap
+* Sass
 * Vue.js
-* Modern JavaScript
-* Responsive UI
-* Component-based development
+* React
+* AJAX
 
 </td>
 
 <td width="50%">
 
-### 🏗️ Backend
+### ⚙️ Backend Development
 
 * PHP
 * Laravel
 * REST APIs
 * Authentication
-* Database architecture
+* Server-side Logic
+* CRUD Systems
+* Database Integration
+* MVC Architecture
 
 </td>
+
 </tr>
 
 <tr>
+
 <td>
 
-### 🐍 Python
+### 🗄️ Database Development
 
-* Automation
-* Scripting
-* Data structures
-* Problem solving
+* MySQL
+* Database Design
+* Relationships
+* Queries
+* Data Management
+* Backend Integration
 
 </td>
 
 <td>
 
-### 🤖 AI
+### 🔧 Web Application Development
 
-* AI APIs
-* Intelligent web applications
-* Automation + AI
-* Real-world AI experiments
+* Full-Stack Web Applications
+* Admin Dashboards
+* Authentication Systems
+* E-Commerce Systems
+* API-Based Applications
+* Dynamic Web Platforms
 
 </td>
+
 </tr>
 </table>
 
@@ -125,69 +150,128 @@ Currently focused on **modern web development, backend systems, APIs, automation
 
 ## 🧩 What I Like Building
 
-| Project Type         | What I Build                          |
-| :------------------- | :------------------------------------ |
-| 🌐 Web Apps          | Full-stack applications               |
-| 🛒 E-Commerce        | Online stores & management systems    |
-| 📊 Dashboards        | Admin panels & data management        |
-| 🔐 Authentication    | Secure user systems                   |
-| 🔌 APIs              | RESTful backend services              |
-| ⚙️ Automation        | Tools that remove repetitive work     |
-| 🤖 AI Apps           | AI-powered web applications           |
-| 🗄️ Database Systems | Structured & data-driven applications |
+| 🌐 Project           | 💡 Description                          |
+| :------------------- | :-------------------------------------- |
+| 🛒 E-Commerce        | Online stores and shopping platforms    |
+| 🎫 Ticket Systems    | Ticket booking and management platforms |
+| 📊 Admin Dashboards  | Data and user management systems        |
+| 🔐 Authentication    | Login, registration and user management |
+| 🔌 REST APIs         | Backend services for web applications   |
+| 🗄️ Database Systems | Structured and relational applications  |
+| 🌐 Web Applications  | Dynamic and responsive web platforms    |
+| 🎨 Frontend Projects | Modern and responsive user interfaces   |
 
 ---
 
 ## ⭐ Featured Projects
 
-> A few things I'm working on and experimenting with.
+### 🛒 Ticket Shop
 
-### 🛒 E-Commerce Platform
+A web-based ticket shopping and management project built as a practical web development project.
 
-Full-stack e-commerce application focused on products, users, authentication, database relationships and responsive UI.
+**Technologies:**
 
-`PHP` `MySQL` `JavaScript` `AJAX` `Bootstrap`
+`PHP` `MySQL` `JavaScript` `HTML` `CSS` `Bootstrap`
 
----
-
-### 📊 Management Dashboard
-
-A web-based management system for handling users, products, data and application workflows.
-
-`Laravel` `MySQL` `JavaScript` `Bootstrap`
+🔗 [View Project](https://github.com/kiyan-rahmati/ticket_shop)
 
 ---
 
-### 🤖 Python Automation Toolkit
+### ☕ Coffee Shop
 
-Python-based tools and scripts for automating repetitive tasks and experimenting with practical automation.
+A modern coffee shop website created to practice frontend and web development concepts.
 
-`Python` `Automation` `Data Structures`
+**Technologies:**
+
+`HTML` `CSS` `JavaScript`
+
+🔗 [View Project](https://github.com/kiyan-rahmati/test_coffe_shop)
 
 ---
 
-### 🌐 Modern Frontend Projects
+### 🖼️ Vue Test Page
 
-Responsive interfaces and frontend experiments focused on reusable components and modern JavaScript.
+A frontend practice project focused on learning and experimenting with Vue.js concepts.
 
-`React` `Vue` `JavaScript` `CSS3`
+**Technologies:**
+
+`Vue.js` `JavaScript` `HTML` `CSS`
+
+🔗 [View Project](https://github.com/kiyan-rahmati/vue_test_page)
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+```text
+Frontend
+│
+├── JavaScript
+├── Vue.js
+├── React
+├── Responsive Design
+└── Modern UI Development
+
+Backend
+│
+├── PHP
+├── Laravel
+├── REST APIs
+├── Authentication
+└── MVC Architecture
+
+Database
+│
+└── MySQL
+```
+
+</div>
+
+I'm continuously improving my skills in **modern frontend and backend web development** by building real projects and exploring better development practices.
+
+---
+
+## 🎯 My Development Focus
+
+```text
+        WEB DEVELOPMENT
+              │
+      ┌───────┴───────┐
+      │               │
+   FRONTEND         BACKEND
+      │               │
+ HTML / CSS        PHP / Laravel
+ JavaScript        REST APIs
+ Vue / React       Authentication
+ Bootstrap         MVC
+      │               │
+      └───────┬───────┘
+              │
+           MySQL
+              │
+              ▼
+       FULL-STACK WEB APPS
+```
+
+My goal is to become a stronger **Full-Stack Web Developer** by combining clean frontend interfaces with reliable backend systems.
 
 ---
 
 ## 🎓 Education
 
-**B.Sc. Computer Engineering**
+### 🎓 Computer Engineering
 
-University of Gilan — Pardis Campus
-`2025 – Present`
+Currently studying **Computer Engineering**.
 
-Interested in:
+My interests within software development include:
 
-`Software Engineering` · `Algorithms` · `Databases` · `Web Technologies` · `Artificial Intelligence`
+`Web Development` · `Software Engineering` · `Databases` · `Algorithms`
 
 ---
 
-## 📫 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -205,14 +289,20 @@ Interested in:
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-### Thanks for stopping by 👋
+### 👨‍💻 Thanks for visiting my profile!
 
-**Code. Build. Learn. Repeat.**
+**Building Web Applications • Learning New Technologies • Improving Every Day**
 
-`< / >` + ☕ + 💻
+<br>
+
+`HTML` `CSS` `JavaScript` `PHP` `Laravel` `Vue` `React` `MySQL`
+
+<br><br>
+
+### `< / >` + ☕ + 💻
 
 </div>
