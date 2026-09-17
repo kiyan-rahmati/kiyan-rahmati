@@ -1,0 +1,26 @@
+name: Update profile activity
+
+on:
+  schedule:
+    - cron: "23 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update recent activity
+        uses: Readme-Workflows/recent-activity@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          CONFIG_FILE: ".github/recent-activity.yml"
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "README.md"
+          message: "chore: update recent profile activity"
