@@ -1,30 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kiyan%20Rahmati&fontSize=60&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Backend-Focused%20%7C%20CE%20Student&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=220&section=header&text=Kiyan%20Rahmati&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Backend-Focused%20Developer%20%7C%20Full-Stack%20%7C%20Computer%20Engineering&descAlignY=60&descSize=16" width="100%" alt="Kiyan Rahmati header" />
+
+<br>
 
 <a href="https://github.com/kiyan-rahmati">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;Backend-Focused+%7C+C%23+%26+.NET;React+%7C+Laravel+%7C+PHP+%7C+JavaScript;Computer+Engineering+Student;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=850&lines=Backend+Development+%7C+C%23+%26+.NET;ASP.NET+Core+%7C+REST+APIs;Full-Stack+Web+Development;Computer+Engineering+Student;Learn+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Typing animation" />
 </a>
 
 <br><br>
 
 <a href="https://github.com/kiyan-rahmati">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://kiyan-rahmati.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/kiyan-rahmati">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:kiyan.rahmati.ss@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Freelance-22c55e?style=flat-square" />
-<img src="https://komarev.com/ghpvc/?username=kiyan-rahmati&label=Profile%20Views&color=8b5cf6&style=flat-square" />
+<img src="https://img.shields.io/badge/Open_to-Remote_%7C_Freelance-22C55E?style=flat-square" alt="Open to remote and freelance" />
+<img src="https://komarev.com/ghpvc/?username=kiyan-rahmati&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -32,196 +34,232 @@
 
 <div align="center">
 
-<img src="./assets/coding.gif" width="750" alt="Late night coding">
+<img src="./assets/coding.gif" width="85%" alt="Coding animation" />
 
 </div>
 
 ---
 
-# 👋 About Me
+## 👋 About Me
 
-Hey! I'm **Kiyan** 👨‍💻
+Hi, I'm **Kiyan Rahmati** — a Computer Engineering student and software developer interested in building practical, reliable, and well-structured applications.
 
-I'm a Computer Engineering student who started coding in **2022** with nothing but curiosity, a computer, and a few lines of code. Since then I've built web projects, broken plenty of things, and learned the most from the things that didn't work.
+I started programming in 2022. Since then, I've explored web development, worked with different technologies, built projects, and gradually developed a stronger interest in backend engineering.
 
-My goal: become a **Full-Stack Developer with a strong Backend specialization**. I'm especially interested in **C# / .NET**, while building real frontend projects with **React**, JavaScript, and PHP/Laravel.
+Currently, I'm focusing on **C#, .NET, backend development, databases, and software engineering fundamentals**, while continuing to explore full-stack development.
 
-I'm not an expert. I'm a developer who keeps learning, experimenting, and shipping, and honestly that's my favorite part.
+My goal is to become a skilled backend engineer capable of designing, developing, and maintaining real-world applications.
 
-```js
-const kiyan = {
-  role: "Full-Stack Developer",
-  focus: ["Backend", "C# / .NET", "React", "Laravel"],
-  studying: "Computer Engineering",
-  environment: "Linux (Ubuntu)",
-  currentlyLearning: ["ASP.NET Core", "Web APIs", "PostgreSQL", "System Design"],
-  lookingFor: "Remote roles, freelance projects, and open-source collaboration",
-  funFact: "I debug until it works, then I debug until I understand why",
+```csharp
+var kiyan = new Developer
+{
+    Role = "Software Developer",
+    Focus = "Backend Development",
+    PrimaryStack = [ "C#", ".NET", "ASP.NET Core" ],
+    WebTechnologies = [ "JavaScript", "PHP", "React", "Laravel" ],
+    Databases = [ "PostgreSQL", "MySQL", "SQL" ],
+    Environment = "Linux",
+    CurrentlyLearning = [
+        "ASP.NET Core",
+        "REST APIs",
+        "Database Design",
+        "Software Architecture"
+    ],
+    Interests = [
+        "Backend Engineering",
+        "Artificial Intelligence",
+        "Open Source",
+        "Linux"
+    ]
 };
 ```
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
+<a href="https://github.com/kiyan-rahmati/CSharp-Learning">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kiyan-rahmati&repo=CSharp-Learning&theme=tokyonight&hide_border=true" alt="CSharp Learning" />
+</a>
+
 <a href="https://github.com/kiyan-rahmati/naroon_coffe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiyan-rahmati&repo=naroon_coffe&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kiyan-rahmati&repo=naroon_coffe&theme=tokyonight&hide_border=true" alt="Naroon Coffee" />
 </a>
+
 <a href="https://github.com/kiyan-rahmati/snake_play_nokia_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiyan-rahmati&repo=snake_play_nokia_1&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kiyan-rahmati&repo=snake_play_nokia_1&theme=tokyonight&hide_border=true" alt="Snake Nokia" />
 </a>
-<a href="https://github.com/kiyan-rahmati/firefox_test">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiyan-rahmati&repo=firefox_test&theme=radical&hide_border=true" />
+
+<a href="https://github.com/kiyan-rahmati/iran_search">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kiyan-rahmati&repo=iran_search&theme=tokyonight&hide_border=true" alt="Iran Search" />
 </a>
 
 </div>
 
 ---
 
-# ⚡ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=cs,js,php,html,css" />
+
+<img src="https://skillicons.dev/icons?i=cs,js,php,html,css" alt="Programming languages" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vue,angular" />
+
+<img src="https://skillicons.dev/icons?i=react,vue,angular,bootstrap,tailwind" alt="Frontend technologies" />
 
 ### Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=dotnet,laravel,php" />
+
+<img src="https://skillicons.dev/icons?i=dotnet,laravel,php" alt="Backend technologies" />
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 
-### Tools & Environment
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,git,github,docker" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Databases" />
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,git,github,docker" alt="Development tools" />
 
 </div>
 
 ---
 
-# 🎯 What I'm Focusing On
+## 🎯 Current Focus
 
-| Area | What I'm working on |
-| --- | --- |
-| ⚙️ **Backend** | C#, OOP, LINQ, async programming, ASP.NET Core, REST APIs, authentication & authorization |
-| 🎨 **Frontend** | HTML5/CSS3, modern JavaScript, React, responsive design, frontend-backend integration |
-| 🗄️ **Databases** | SQL, PostgreSQL, MySQL, schema design, normalization, query optimization |
-| 🧠 **CS Fundamentals** | Data structures, algorithms, operating systems, networks, computer architecture |
-| 🌱 **Exploring** | AI tools, cybersecurity basics, Linux, open source |
-
-I'd rather understand things deeply than know a hundred things superficially.
+| Area | Focus |
+|---|---|
+| ⚙️ Backend Development | C#, .NET, OOP, ASP.NET Core, REST APIs |
+| 🗄️ Databases | SQL, PostgreSQL, MySQL, database design |
+| 🧠 Computer Science | Algorithms, data structures, architecture, operating systems |
+| 🌐 Full-Stack | JavaScript, React, PHP, Laravel |
+| 🐧 Environment | Linux, Git, Docker, command line |
+| 🤖 Future Exploration | Artificial Intelligence, Machine Learning |
 
 ---
 
-# 📊 GitHub Stats
+## 📈 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kiyan-rahmati&show_icons=true&theme=radical&hide_border=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyan-rahmati&layout=compact&theme=radical&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kiyan-rahmati&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyan-rahmati&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=kiyan-rahmati&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=kiyan-rahmati&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiyan-rahmati&theme=react-dark&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiyan-rahmati&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub activity graph" />
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kiyan-rahmati/kiyan-rahmati/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kiyan-rahmati/kiyan-rahmati/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/kiyan-rahmati/kiyan-rahmati/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/kiyan-rahmati/kiyan-rahmati/output/github-snake.svg" width="100%" />
 </picture>
 
 </div>
 
 ---
 
-# 🗺️ My Journey
+## 🗺️ My Journey
 
 <div align="center">
 
-| Year | Chapter |
-| --- | --- |
-| **2022** | 🌱 The beginning: first steps into programming |
-| **2023** | 🎨 Web development and frontend fundamentals |
-| **2024** | ⚡ JavaScript, PHP, and building web projects |
-| **2025** | ⚙️ Backend development and databases |
-| **2026** | 🚀 Computer Engineering, C#, .NET, full-stack projects & Linux |
+| Year | Journey |
+|---|---|
+| **2022** | 🌱 Started my programming journey |
+| **2023** | 🎨 Learned web development and frontend fundamentals |
+| **2024** | ⚡ Explored JavaScript, PHP, and web projects |
+| **2025** | ⚙️ Focused on backend development and databases |
+| **2026** | 🚀 Computer Engineering, C#, .NET, Linux, and building projects |
 
 </div>
 
 ---
 
-# 📚 How I Learn
+## 📚 My Learning Process
 
 <div align="center">
 
-💡 **Get curious** → 📖 **Learn the fundamentals** → 💻 **Write code** → 🐛 **Hit bugs** → 🔍 **Debug** → 🧠 **Understand** → 🛠️ **Build something better**
+**Curiosity** → **Fundamentals** → **Practice** → **Build** → **Debug** → **Understand** → **Improve**
+
+</div>
+
+I believe the best way to learn software development is by writing code, solving problems, making mistakes, understanding them, and building again.
+
+---
+
+## 📂 What You'll Find Here
+
+- 💻 Software development projects
+- ⚙️ Backend experiments and .NET applications
+- 🌐 Full-stack web projects
+- 🧪 Programming exercises and learning repositories
+- 🗄️ Database and API implementations
+- 🚀 Experiments with new technologies
+
+Some repositories are finished projects; others are experiments, learning resources, or snapshots of my progress.
+
+---
+
+## 💡 Philosophy
+
+<div align="center">
+
+> Build it. Understand it. Improve it.
+
+<br>
+
+> Consistency beats temporary motivation.
+
+<br>
+
+> Don't just make it work — understand why it works.
 
 </div>
 
 ---
 
-# 📂 What You'll Find Here
+## 🤝 Let's Connect
 
-- 🛠️ Full-stack web applications
-- 🧪 Backend experiments and C# learning projects
-- 🎨 Frontend projects
-- 🗄️ Database and API work
-- 📓 Exercises and things I'm learning along the way
-
-Not every repo is a finished product. Some are experiments, some are practice, and each one marks a stage in my journey.
-
----
-
-# 💭 What I Believe In
-
-> *"First, make it work. Then, understand it. Finally, make it better."*
-
-> *"Every error has something to teach."*
-
-> *"Consistency beats temporary motivation."*
-
----
-
-# 🤝 Let's Connect
-
-I'm open to **remote roles, freelance work, open-source collaboration**, and technical conversations. If you have an interesting project, say hi!
+I'm open to remote opportunities, freelance projects, open-source contributions, collaborations, and interesting technical conversations.
 
 <div align="center">
 
 <a href="https://github.com/kiyan-rahmati">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://kiyan-rahmati.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/kiyan-rahmati">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:kiyan.rahmati.ss@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:8B5CF6&height=120&section=footer" width="100%" alt="Footer" />
 
-**Code. Learn. Understand. Build.** 👋
+<br>
+
+**Code · Learn · Understand · Build**
 
 <sub>© Kiyan Rahmati · 2026</sub>
 
