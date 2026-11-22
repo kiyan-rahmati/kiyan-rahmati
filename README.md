@@ -1,19 +1,10 @@
 <div align="center">
 
-# Kiyan Rahmati
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kiyan%20Rahmati&fontSize=60&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Backend-Focused%20%7C%20CE%20Student&descAlignY=58&descSize=18" width="100%" alt="header" />
 
-### Full-Stack Developer | Backend-Focused | Computer Engineering Student | AI Enthusiast
-
-*From a few lines of code to a lifelong journey of building things.*
-
-<br>
-
-💻 Full-Stack Development  
-⚙️ Backend Engineering  
-🎨 Frontend Development  
-🧠 Artificial Intelligence  
-🐧 Linux Enthusiast  
-📚 Always Learning, Always Building
+<a href="https://github.com/kiyan-rahmati">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;Backend-Focused+%7C+C%23+%26+.NET;React+%7C+Laravel+%7C+PHP+%7C+JavaScript;Computer+Engineering+Student;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</a>
 
 <br><br>
 
@@ -23,12 +14,16 @@
 <a href="https://kiyan-rahmati.github.io/">
   <img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
+<a href="https://www.linkedin.com/in/kiyan-rahmati">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <a href="mailto:kiyan.rahmati.ss@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
+<img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Freelance-22c55e?style=flat-square" />
 <img src="https://komarev.com/ghpvc/?username=kiyan-rahmati&label=Profile%20Views&color=8b5cf6&style=flat-square" />
 
 </div>
@@ -43,394 +38,169 @@
 
 ---
 
-# 👋 A Little About Me
+# 👋 About Me
 
-Hey! I'm **Kiyan Rahmati**.
+Hey! I'm **Kiyan** 👨‍💻
 
-I'm a Computer Engineering student with a passion for programming, software engineering, and understanding how technology works behind the scenes.
+I'm a Computer Engineering student who started coding in **2022** with nothing but curiosity, a computer, and a few lines of code. Since then I've built web projects, broken plenty of things, and learned the most from the things that didn't work.
 
-My programming journey started in **2022**.
+My goal: become a **Full-Stack Developer with a strong Backend specialization**. I'm especially interested in **C# / .NET**, while building real frontend projects with **React**, JavaScript, and PHP/Laravel.
 
-Back then, it was just curiosity, a computer, and a few lines of code.
+I'm not an expert. I'm a developer who keeps learning, experimenting, and shipping, and honestly that's my favorite part.
 
-Over time, that curiosity turned into something bigger.
-
-I've explored web development, worked with different programming languages, built projects, encountered countless errors, and learned that sometimes the best lessons come from things that don't work.
-
-Today, my main goal is to become a **Full-Stack Developer with a stronger specialization in Backend Development**.
-
-I'm particularly interested in the C# and .NET ecosystem, while continuing to explore modern frontend technologies such as Vue.js, React, and Angular.
-
-I'm also interested in Artificial Intelligence, computer systems, Linux, and the fundamentals of computer science.
-
-I don't consider myself an expert.
-
-I'm a developer who is still learning, experimenting, and trying to become better with every project.
-
-And honestly, that's my favorite part of this journey.
+```js
+const kiyan = {
+  role: "Full-Stack Developer",
+  focus: ["Backend", "C# / .NET", "React", "Laravel"],
+  studying: "Computer Engineering",
+  environment: "Linux (Ubuntu)",
+  currentlyLearning: ["ASP.NET Core", "Web APIs", "PostgreSQL", "System Design"],
+  lookingFor: "Remote roles, freelance projects, and open-source collaboration",
+  funFact: "I debug until it works, then I debug until I understand why",
+};
+```
 
 ---
 
-# 🧑‍💻 My Developer Identity
-
-| Area                   | Focus                                      |
-| ---------------------- | ------------------------------------------ |
-| 🎓 Education           | Computer Engineering                       |
-| 💻 Main Identity       | Full-Stack Developer                       |
-| ⚙️ Specialization      | Backend Development                        |
-| 🔧 Backend             | C# / .NET / ASP.NET Core / PHP / Laravel   |
-| 🎨 Frontend            | JavaScript / Vue.js / React / Angular      |
-| 🗄️ Database            | SQL / PostgreSQL / MySQL                   |
-| 🧠 Exploring           | Artificial Intelligence                    |
-| 🐧 Environment         | Linux                                      |
-| 🚀 Goal                | Becoming a Strong Full-Stack Developer     |
-
----
-
-# ⚡ Technologies & Tools
+# 🚀 Featured Projects
 
 <div align="center">
 
-### Programming Languages
+<a href="https://github.com/kiyan-rahmati/naroon_coffe">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiyan-rahmati&repo=naroon_coffe&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/kiyan-rahmati/snake_play_nokia_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiyan-rahmati&repo=snake_play_nokia_1&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/kiyan-rahmati/firefox_test">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiyan-rahmati&repo=firefox_test&theme=radical&hide_border=true" />
+</a>
 
+</div>
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+### Languages
 <img src="https://skillicons.dev/icons?i=cs,js,php,html,css" />
 
-<br><br>
-
 ### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vue,react,angular" />
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vue,angular" />
 
 ### Backend & Frameworks
-
-<img src="https://skillicons.dev/icons?i=dotnet,laravel" />
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=dotnet,laravel,php" />
 
 ### Databases
-
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 
-<br><br>
-
-### Development Environment
-
+### Tools & Environment
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,git,github,docker" />
 
 </div>
 
 ---
 
-# ⚙️ What I'm Focusing On
-
-My current learning path is centered around becoming a stronger Full-Stack Developer while developing deeper knowledge of Backend Engineering.
-
-I enjoy understanding both sides of an application: designing interfaces and building the systems that power them.
-
-### C# & .NET
-
-Currently investing time in:
-
-- C# Fundamentals
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- Exception Handling
-- Collections and LINQ
-- Asynchronous Programming
-- .NET Ecosystem
-- ASP.NET Core
-- Web API Development
-
-My goal is to build a strong foundation before moving toward more advanced backend architectures.
-
-### Backend Development
-
-I'm particularly interested in:
-
-- How backend systems work
-- Client-server communication
-- RESTful APIs
-- Authentication and Authorization
-- Database Integration
-- Application Architecture
-- Clean Code
-- Software Design Principles
-- Server-side Development
-- Scalable Applications
-
-### Frontend Development
-
-I also want to strengthen my frontend skills and understand modern frontend development.
-
-My learning interests include:
-
-- HTML5 & CSS3
-- JavaScript (ES6+)
-- Responsive Web Design
-- Vue.js
-- React
-- Angular
-- Component-Based Architecture
-- Frontend-Backend Integration
-- UI/UX Fundamentals
-
-### Database Engineering
-
-Understanding databases is an important part of becoming a capable backend developer.
-
-I'm focusing on:
-
-- SQL
-- PostgreSQL
-- MySQL
-- SQLite
-- Database Design
-- Relationships & Normalization
-- CRUD Operations
-- Advanced Queries
-- Query Optimization
-
-### Computer Science
-
-University studies and personal learning go hand in hand.
-
-I'm also interested in:
-
-- Computer Architecture
-- Digital Logic
-- Data Structures
-- Algorithms
-- Operating Systems
-- Computer Networks
-- Database Systems
-
-I believe understanding computer science fundamentals makes a real difference in becoming a better software developer.
-
----
-
-# 🌐 My Web Development Background
-
-Web Development has been an important part of my programming journey.
-
-I've spent time exploring both frontend and backend technologies and understanding how complete web applications work.
-
-**Frontend**
-
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- AJAX
-
-**Backend**
-
-- PHP
-- Laravel
-- Server-side Logic
-- APIs
-
-**Database**
-
-- SQL
-- MySQL
-
-I'm continuing to expand my frontend knowledge through Vue.js, React, and Angular while strengthening my backend skills with C# and ASP.NET Core.
-
-My goal is to understand how every part of a web application works together.
-
----
-
-# 🧠 Beyond Traditional Development
-
-Technology doesn't stop at web applications.
-
-I'm particularly interested in exploring:
-
-### Artificial Intelligence
-
-Understanding AI technologies, intelligent applications, and how AI can become a useful part of real-world software.
-
-### Cybersecurity
-
-Learning security fundamentals and understanding how to build more reliable and secure applications.
-
-### Linux & Open Source
-
-Working in Linux environments, exploring open-source tools, and becoming more comfortable with the developer ecosystem.
-
-### Software Engineering
-
-Learning how to design, structure, maintain, and improve software beyond simply making it work.
-
----
-
-# 📚 My Learning Philosophy
-
-I believe programming is best learned through practice.
-
-My approach is simple:
-
-<div align="center">
-
-### 💡 Get Curious
-
-↓
-
-### 📖 Learn the Fundamentals
-
-↓
-
-### 💻 Write Code
-
-↓
-
-### 🐛 Encounter Bugs
-
-↓
-
-### 🔍 Investigate & Debug
-
-↓
-
-### 🧠 Understand What Happened
-
-↓
-
-### 🛠️ Build Something Better
-
-</div>
-
-I don't want to memorize solutions without understanding them.
-
-I want to know why something works, what happens behind the scenes, and how I can improve it.
-
----
-
-# 🗺️ A Journey Since 2022
-
-<div align="center">
-
-| Year     | Chapter                                                            |
-| -------- | ------------------------------------------------------------------ |
-| **2022** | 🌱 The Beginning — My first steps into programming                 |
-| **2023** | 🎨 Exploring Web Development and Frontend Fundamentals             |
-| **2024** | ⚡ JavaScript, PHP, and Building Web Projects                       |
-| **2025** | ⚙️ Exploring Backend Development and Databases                     |
-| **2026** | 🚀 Computer Engineering, C#, .NET, Full-Stack Development & Linux   |
-
-</div>
-
-Every year introduced me to something new.
-
-Some projects were successful. Some weren't.
-
-Some technologies stayed with me, while others became stepping stones toward something different.
-
-But one thing hasn't changed:
-
-**I'm still curious about how things work.**
-
----
-
-# 🎯 Where I'm Heading
-
-My long-term goal is to become a skilled **Full-Stack Developer with strong Backend Engineering skills**.
-
-Some things I'm working toward:
-
-- Becoming proficient in C# and .NET
-- Developing professional applications with ASP.NET Core
-- Strengthening frontend development skills
-- Learning Vue.js, React, and Angular
-- Mastering SQL and relational databases
-- Building complete Full-Stack applications
-- Understanding software architecture
-- Improving problem-solving skills
-- Exploring Artificial Intelligence
-- Strengthening my computer science knowledge
-- Contributing to open-source projects
-- Working with international development teams
-
-I'm not in a hurry to collect technologies.
+# 🎯 What I'm Focusing On
+
+| Area | What I'm working on |
+| --- | --- |
+| ⚙️ **Backend** | C#, OOP, LINQ, async programming, ASP.NET Core, REST APIs, authentication & authorization |
+| 🎨 **Frontend** | HTML5/CSS3, modern JavaScript, React, responsive design, frontend-backend integration |
+| 🗄️ **Databases** | SQL, PostgreSQL, MySQL, schema design, normalization, query optimization |
+| 🧠 **CS Fundamentals** | Data structures, algorithms, operating systems, networks, computer architecture |
+| 🌱 **Exploring** | AI tools, cybersecurity basics, Linux, open source |
 
 I'd rather understand things deeply than know a hundred things superficially.
 
 ---
 
-# 🐧 My Development Environment
+# 📊 GitHub Stats
 
-Currently, Linux is my primary development environment.
+<div align="center">
 
-I enjoy exploring the command line, configuring development tools, working with Git, and understanding the system I'm developing on.
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kiyan-rahmati&show_icons=true&theme=radical&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyan-rahmati&layout=compact&theme=radical&hide_border=true" />
 
-My daily toolkit includes:
+<br>
 
-- Ubuntu
-- Visual Studio Code
-- .NET SDK
-- Git & GitHub
-- PostgreSQL
-- MySQL
-- SQLite
-- Docker
+<img src="https://streak-stats.demolab.com?user=kiyan-rahmati&theme=radical&hide_border=true" />
 
-I also enjoy experimenting with local AI tools and discovering ways to integrate AI into development workflows.
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiyan-rahmati&theme=react-dark&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kiyan-rahmati/kiyan-rahmati/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kiyan-rahmati/kiyan-rahmati/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/kiyan-rahmati/kiyan-rahmati/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+# 🗺️ My Journey
+
+<div align="center">
+
+| Year | Chapter |
+| --- | --- |
+| **2022** | 🌱 The beginning: first steps into programming |
+| **2023** | 🎨 Web development and frontend fundamentals |
+| **2024** | ⚡ JavaScript, PHP, and building web projects |
+| **2025** | ⚙️ Backend development and databases |
+| **2026** | 🚀 Computer Engineering, C#, .NET, full-stack projects & Linux |
+
+</div>
+
+---
+
+# 📚 How I Learn
+
+<div align="center">
+
+💡 **Get curious** → 📖 **Learn the fundamentals** → 💻 **Write code** → 🐛 **Hit bugs** → 🔍 **Debug** → 🧠 **Understand** → 🛠️ **Build something better**
+
+</div>
 
 ---
 
 # 📂 What You'll Find Here
 
-My GitHub is where I document my progress.
+- 🛠️ Full-stack web applications
+- 🧪 Backend experiments and C# learning projects
+- 🎨 Frontend projects
+- 🗄️ Database and API work
+- 📓 Exercises and things I'm learning along the way
 
-You'll find:
-
-- Programming exercises
-- C# learning projects
-- Backend experiments
-- Frontend projects
-- Full-Stack applications
-- Database experiments
-- API development
-- Personal projects
-- Things I'm learning along the way
-
-Not every repository is a finished product.
-
-Some are experiments, some are practice, and some are projects that represent a particular stage of my learning journey.
-
-I believe keeping track of progress matters.
+Not every repo is a finished product. Some are experiments, some are practice, and each one marks a stage in my journey.
 
 ---
 
-# 💭 A Few Things I Believe In
+# 💭 What I Believe In
 
-> "First, make it work. Then, understand it. Finally, make it better."
+> *"First, make it work. Then, understand it. Finally, make it better."*
 
-> "Every error has something to teach."
+> *"Every error has something to teach."*
 
-> "Learning never ends."
-
-> "Don't just use technology. Understand it."
-
-> "Consistency beats temporary motivation."
+> *"Consistency beats temporary motivation."*
 
 ---
 
 # 🤝 Let's Connect
 
-I'm always interested in meeting developers, exchanging ideas, discussing technology, and collaborating on interesting projects.
-
-Open to:
-
-- Full-Stack Development
-- Backend Projects
-- Frontend Development
-- Open Source
-- Technical Discussions
-- Collaboration
-- Learning Together
+I'm open to **remote roles, freelance work, open-source collaboration**, and technical conversations. If you have an interesting project, say hi!
 
 <div align="center">
 
@@ -440,25 +210,18 @@ Open to:
 <a href="https://kiyan-rahmati.github.io/">
   <img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
+<a href="https://www.linkedin.com/in/kiyan-rahmati">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <a href="mailto:kiyan.rahmati.ss@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
 
-### ⚡ Code. Learn. Understand. Build.
-
-*Started with curiosity. Continuing with passion.*
-
-<br>
-
-<img src="./assets/github-activity.gif" width="700" alt="A journey of continuous learning">
-
-<br><br>
-
-**Thanks for stopping by! 👋**
+**Code. Learn. Understand. Build.** 👋
 
 <sub>© Kiyan Rahmati · 2026</sub>
 
